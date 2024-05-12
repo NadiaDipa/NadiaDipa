@@ -1,5 +1,5 @@
-<h3 align="center">
-   <img height="50px" width="50px" src="https://c.tenor.com/vZfhqKjk2nUAAAAC/tenor.gif">
+<h2 align="center" style="color:blue;">
+   <img height="50px" width="50px" src="https://iconscout.com/lottie-animation/ai-robot-saying-hello-5647513">
   Welcome to Nadia Dipa's profile!
  </h3>
 Front End Developer](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/337053873/original/e88d540f58481f8b051f554686438a522291808d/be-your-frontend-reactjs-web-developer-or-do-frontend-web-development.png)
