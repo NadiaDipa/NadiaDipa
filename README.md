@@ -1,15 +1,10 @@
-
-
-![photo_2024-05-13_02-54-35](https://github.com/NadiaDipa/NadiaDipa/assets/40013245/46ba7840-bb4c-474a-8f4a-572195bdbd63)
-
 <h2 align="center" style="color:blue;">
    <img height="100px" width="50px" src="https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif">
   Welcome to Nadia Dipa's profile!
  </h3>
-<img src="![Alt text](![photo_2024-05-13_02-54-35](https://github.com/NadiaDipa/NadiaDipa/assets/40013245/b12d0337-d201-44a7-b0e5-6bfd9c568333)
-)">
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>#### Front End Developer
+![photo_2024-05-13_02-54-35](https://github.com/NadiaDipa/NadiaDipa/assets/40013245/46ba7840-bb4c-474a-8f4a-572195bdbd63)
+<h3 align="center">Dedicated Front-End Developer</h3>
 
 I have completed my graduation from American International University-Bangladesh (AIUB) with a B.Sc. in Computer Science and Engineering (CSE). My current passion is front-end development. I am focused on achieving my goals while continuously seeking ways to develop my skills and learn new things.
 
