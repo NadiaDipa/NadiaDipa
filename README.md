@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/2d/40/32/2d4032ff0a416a9b3ceb18e4875d9a46.gif"><h1 align="center">Welcome to Pamela Chemutai's profile!</h1>
+<span><img src="https://i.pinimg.com/originals/2d/40/32/2d4032ff0a416a9b3ceb18e4875d9a46.gif"></span><h1 align="center">Welcome to Nadia Dipa's profile!</h1>
 Front End Developer](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/337053873/original/e88d540f58481f8b051f554686438a522291808d/be-your-frontend-reactjs-web-developer-or-do-frontend-web-development.png)
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>#### Front End Developer
 
