@@ -1,3 +1,9 @@
+<style>
+   * {
+    font-family: "Iosevka";
+}
+</style>
+
 <h1 align="center" color:blue; font-size: large;>
    <img height="100px" width="150px" src="https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif">
    Welcome to Nadia Dipa's profile!
