@@ -2,7 +2,8 @@
    <img height="100px" width="50px" src="https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif">
   Welcome to Nadia Dipa's profile!
  </h3>
-<img src="![photo_2024-05-13_02-54-35](https://github.com/NadiaDipa/NadiaDipa/assets/40013245/02984fc4-616f-45c6-967f-da630c1fdc04">
+<img src="![Alt text](![photo_2024-05-13_02-54-35](https://github.com/NadiaDipa/NadiaDipa/assets/40013245/b12d0337-d201-44a7-b0e5-6bfd9c568333)
+)">
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>#### Front End Developer
 
