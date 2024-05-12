@@ -1,8 +1,9 @@
 <h2 align="center" style="color:blue;">
-   <img height="50px" width="50px" src="https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif">
+   <img height="100px" width="50px" src="https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif">
   Welcome to Nadia Dipa's profile!
  </h3>
-Front End Developer](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/337053873/original/e88d540f58481f8b051f554686438a522291808d/be-your-frontend-reactjs-web-developer-or-do-frontend-web-development.png)
+<img src="![photo_2024-05-13_02-54-35](https://github.com/NadiaDipa/NadiaDipa/assets/40013245/02984fc4-616f-45c6-967f-da630c1fdc04">
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>#### Front End Developer
 
 I have completed my graduation from American International University-Bangladesh (AIUB) with a B.Sc. in Computer Science and Engineering (CSE). My current passion is front-end development. I am focused on achieving my goals while continuously seeking ways to develop my skills and learn new things.
