@@ -1,7 +1,7 @@
-<h2 align="center" style="color:blue;">
-   <img height="100px" width="50px" src="https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif">
+<h1 align="center" style="color:blue;">
+   <img height="100px" width="150px" src="https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif">
   Welcome to Nadia Dipa's profile!
- </h3>
+ </h1>
 
 ![photo_2024-05-13_02-54-35](https://github.com/NadiaDipa/NadiaDipa/assets/40013245/46ba7840-bb4c-474a-8f4a-572195bdbd63)
 <h3 align="center">Dedicated Front-End Developer</h3>
@@ -20,6 +20,7 @@ I have completed my graduation from American International University-Bangladesh
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nadia-islam-dipa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadia-islam-dipa" height="30" width="40" /></a>
+<a href="https://github.com/NadiaDipa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NadiaDipa" height="30" width="40" /></a>
 <a href="https://fb.com/nadiadip121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadiadip121" height="30" width="40" /></a>
 </p>
 
