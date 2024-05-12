@@ -1,7 +1,7 @@
-##<h1 align="center">
+<h1 align="center" style="color:red;font-size:40px;">
    <img height="100px" width="150px" src="https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif">
    Welcome to Nadia Dipa's profile!
- </h1>
+</h1>
 
 ![photo_2024-05-13_02-54-35](https://github.com/NadiaDipa/NadiaDipa/assets/40013245/46ba7840-bb4c-474a-8f4a-572195bdbd63)
 <h3 align="center">Dedicated Front-End Developer</h3>
