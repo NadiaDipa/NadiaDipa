@@ -1,5 +1,5 @@
 <h1 align="center">
-   👋,Welcome to Nadia Dipa's profile!
+   👋Welcome to Nadia Dipa's profile!
 </h1>
 
 ![photo_2024-05-13_02-54-35](https://github.com/NadiaDipa/NadiaDipa/assets/40013245/46ba7840-bb4c-474a-8f4a-572195bdbd63)
