@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img height="70px" width="28" src="https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif">
+   <img height="60px" width="50" src="https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif">
    Welcome to Nadia Dipa's profile!
 </h1>
 
